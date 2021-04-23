@@ -1,4 +1,4 @@
-#Alunas: Manoella Leite e Noani Barbieri 
+#Aluna: Noani Barbieri 
 #Matéria: Circuitos 2
 
 #Definindo as bibliotecas
